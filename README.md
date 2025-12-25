@@ -46,5 +46,7 @@ The dashboard is designed to provide **quick insights** using KPIs, slicers, and
 ---
 <img width="1399" height="817" alt="image" src="https://github.com/user-attachments/assets/80b7bdab-63ef-4784-937f-af831b88708d" />
 <img width="1344" height="770" alt="image" src="https://github.com/user-attachments/assets/0bd9d70c-7ccb-443c-a094-0b5bc39e7013" />
+<img width="1353" height="773" alt="image" src="https://github.com/user-attachments/assets/8f00a247-58c1-45af-9a3b-61c31f345ae2" />
+
 
 
